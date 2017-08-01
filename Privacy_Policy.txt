@@ -1,0 +1,2 @@
+Dhobighat is an android application that does not store any user information except the one related to the Dhobighat anywhere.
+The data provided by the users is secure.
